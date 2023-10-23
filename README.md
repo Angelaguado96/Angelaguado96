@@ -34,17 +34,19 @@ las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
     Como tambien  otras librerias que  hace  la vida del  cliente  mejor  tengo concoimento  como  lider y trabajo en equipo  me descado por que  
     busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
     parte ensencial en  un  grupo de  trabajo.
-    
-![node](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/a8ecf277-2ee7-4587-89b2-1ecfe9c55c1c)
-![vite](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/ed5b86a8-bc65-4212-a4a2-f23de25f3366)
+    <img src="![node](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/a8ecf277-2ee7-4587-89b2-1ecfe9c55c1c)" width="200" height="200">
+    <img src="![vite](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/ed5b86a8-bc65-4212-a4a2-f23de25f3366)" width="200" height="200">
+
+
 
 ![next](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/18381ff9-1e14-41e9-8d8e-e0dcf621a8aa)
 ![post](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/78835ab9-984a-4f9f-ac58-e4fa3ff9498a)
 
 ![bosstramp](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/414ebd64-fcec-4351-858b-050973950151)
 
-![tailwind](https://github![js](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/300368c7-8c89-493e-8df6-762be1e6b588)
-.com/Angelaguado96/Angelaguado96/assets/133174571/e8a6c3c1-2312-48af-860e-21560a7e7013)
+![tailwind](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/23b9b88a-0898-41e0-943d-ac58385c0c6d)
+![Sass](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/7f3d4a61-5fed-4dea-b25b-005f93f2221e)
+
 
 ![redux](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/cbfb0d5c-21c8-4887-97fd-6ab50dd9ae30)
 ![postman](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/77687e47-677f-4f01-b0b1-16c94468b329)
