@@ -35,6 +35,7 @@ las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
     busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
     parte ensencial en  un  grupo de  trabajo.
 
+![redux](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/16627d2e-9216-4968-a387-1119e0c0cb29)
 
 
       ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ NO DUCES EN  LLAMARME  QUE GUSTOSAMENTE ME  GUSTIAS RESPONDERTE   ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ 
