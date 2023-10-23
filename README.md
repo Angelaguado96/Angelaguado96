@@ -34,8 +34,8 @@ las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
     Como tambien  otras librerias que  hace  la vida del  cliente  mejor  tengo concoimento  como  lider y trabajo en equipo  me descado por que  
     busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
     parte ensencial en  un  grupo de  trabajo.
-<img src='![redux](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/fbc5d656-6138-47c2-846f-f28d53f237b0)
-' width='50' height='50' alt='Descripción de la imagen'  />
+    
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F405912%2Fvite&psig=AOvVaw3KK1EQTQP53eekDi0W3AFW&ust=1698178411078000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCbqNn9jIIDFQAAAAAdAAAAABAE
 
 
 
