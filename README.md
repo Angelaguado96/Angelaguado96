@@ -24,7 +24,7 @@ Soy un líder y trabajador en equipo eficaz. Me destaco por buscar las solucione
 Si estás interesado en trabajar conmigo, no dudes en contactarme.
 
           ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ NO DUDES EN  LLAMARME  QUE GUSTOSAMENTE TE RESPONDERTE   ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ 
-  💻💻💻💻💻 Telefono : +51 926602035 💻💻💻💻💻💻💻💻
+  💻💻💻💻💻 Telefono : +51 926602035  -  984068049   💻💻💻💻💻💻💻💻
  - 📫 - 📫 - 📫 Correo : angel_aguado_k2@hotmail.com   - 📫 - 📫
 
     
