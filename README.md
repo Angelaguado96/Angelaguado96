@@ -1,41 +1,32 @@
 Hola ! Mi Nombre es  Angel Aguado 👋👋👋👋👋
 
-¿Quien  soy  ?
-soy  un  programador  FULLSTACK orientado en diseño  Front -end y creacion  de material visual empese hace
-3 años en mundo de  la  progracion y  mi primer  lenguajes que apredi fue  javaScrip  sin duda fue  unas de  
-las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
 
- ¡Que hago?
-  Actualemre  me dedico a   realizar  proyectos  que  me permite  avanzar en    mi formacion  como  programador
-  Me facina poder encontrar la soliciones a los problemas de  la  vida  con el  codigo .
+Soy un desarrollador web full-stack apasionado por crear soluciones innovadoras que impacten positivamente en el mundo.
 
-
-  ¿A donde  me dirijo ?
-  MI objetivo es  inpactar  al  mundo con  mi  codigo 💻
-
-  No solo  disfruto  de la programcion   por  la   cantidad de  cemanda  que hay  en el mercado  sino  que realmente 
-  me apaciona  ampliar  mi  prespectiva  de las cosas  que esxistes  en el mundo  y encontrar nuevas  soluciones  a  problemas
-  que  creiamos  ya resultos
-
-  ¿Que tecnologias Uso ?
-   En  el  Bootcamp de  Henry me  an  permitido  adquirir  el conocimiento  y espereicna  fundamental  para  despergar 🚀 por lo que  
-   orecipalmente  tecnologias  que  manejo son  :
-
-   🚀 javaCript
+Comencé en el mundo de la programación hace 3 años, y desde entonces he trabajado en una variedad de proyectos, desde plataformas de comercio electrónico hasta aplicaciones de gestión. Estoy especializado en diseño de interfaces de usuario y creación de material visual, y domino tecnologías como:
+ 🚀 javaCript
     🚀 React .vite 
     🚀 Node.js
     🚀 Express 
     🚀 PostgressSQL
     🚀 Sequelize 
-    🚀 Git 
-    claramente  Incluyendo
+    🚀 GitHub
     🚀HTML 
     🚀 CSS 
-    Como tambien  otras librerias que  hace  la vida del  cliente  mejor  tengo concoimento  como  lider y trabajo en equipo  me descado por que  
-    busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
-    parte ensencial en  un  grupo de  trabajo.
 
-    
+Soy un líder y trabajador en equipo eficaz. Me destaco por buscar las soluciones y maneras eficientes, y soy adaptable a equipos de trabajo. Estoy siempre aprendiendo y creciendo, y estoy comprometido a hacer un impacto positivo en el mundo a través de la tecnología.
+
+
+ Como tambien  otras librerias que  hace  la vida del  cliente  mejor  tengo concoimento  como  lider y trabajo en equipo  me descado por que  
+  busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
+   parte ensencial en  un  grupo de  trabajo.
+
+Si estás interesado en trabajar conmigo, no dudes en contactarme.
+
+          ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ NO DUDES EN  LLAMARME  QUE GUSTOSAMENTE TE RESPONDERTE   ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ 
+  💻💻💻💻💻 Telefono : +51 926602035 💻💻💻💻💻💻💻💻
+ - 📫 - 📫 - 📫 Correo : angel_aguado_k2@hotmail.com   - 📫 - 📫
+
     
     
    <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/a8ecf277-2ee7-4587-89b2-1ecfe9c55c1c" width="100" height="100">
@@ -57,6 +48,3 @@ las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
 
 
 
-      ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ NO DUCES EN  LLAMARME  QUE GUSTOSAMENTE ME  GUSTIAS RESPONDERTE   ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ 
-  💻💻💻💻💻 Telefono : +51 926602035 💻💻💻💻💻💻💻💻
- - 📫 - 📫 - 📫 Correo : angel_aguado_k2@hotmail.com   - 📫 - 📫
