@@ -35,9 +35,28 @@ las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
     busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
     parte ensencial en  un  grupo de  trabajo.
     
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F405912%2Fvite&psig=AOvVaw3KK1EQTQP53eekDi0W3AFW&ust=1698178411078000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCbqNn9jIIDFQAAAAAdAAAAABAE
+![node](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/a8ecf277-2ee7-4587-89b2-1ecfe9c55c1c)
+![vite](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/ed5b86a8-bc65-4212-a4a2-f23de25f3366)
+
+![next](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/18381ff9-1e14-41e9-8d8e-e0dcf621a8aa)
+![post](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/78835ab9-984a-4f9f-ac58-e4fa3ff9498a)
+
+![bosstramp](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/414ebd64-fcec-4351-858b-050973950151)
+
+![tailwind](https://github![js](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/300368c7-8c89-493e-8df6-762be1e6b588)
+.com/Angelaguado96/Angelaguado96/assets/133174571/e8a6c3c1-2312-48af-860e-21560a7e7013)
+
+![redux](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/cbfb0d5c-21c8-4887-97fd-6ab50dd9ae30)
+![postman](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/77687e47-677f-4f01-b0b1-16c94468b329)
+![typecript](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/31226039-cf20-45c9-9d95-6332f291fbf0)
+
+![express](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/ea16364c-4111-4513-b5f4-25c5a9529e8d)
+
+![visual](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/727c2516-0b2c-4a48-8e06-dbcc3b3d9679)
 
 
+
+![sequelize](https://github.com/Angelaguado96/Angelaguado96/assets/133174571/a840231e-0a5d-406f-ba75-c304081933e2)
 
       ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ NO DUCES EN  LLAMARME  QUE GUSTOSAMENTE ME  GUSTIAS RESPONDERTE   ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ ✨✨ 
   💻💻💻💻💻 Telefono : +51 926602035 💻💻💻💻💻💻💻💻
