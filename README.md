@@ -46,7 +46,7 @@ las experiencias  ,as  motivadoras  fue mi  acercamiento  a  codigo .
 <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/23b9b88a-0898-41e0-943d-ac58385c0c6d" width="100" height="100">
 <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/7f3d4a61-5fed-4dea-b25b-005f93f2221e" width="100" height="100">
 <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/cbfb0d5c-21c8-4887-97fd-6ab50dd9ae30" width="100" height="100">
-<img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/77687e47-677f-4f01-b0b1-16c94468b329" width="100" height="100">
+<img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/77687e47-677f-4f01-b0b1-16c94468b329" width="200" height="100">
 <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/31226039-cf20-45c9-9d95-6332f291fbf0" width="100" height="100">
 <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/ea16364c-4111-4513-b5f4-25c5a9529e8d" width="100" height="100">
 <img src="https://github.com/Angelaguado96/Angelaguado96/assets/133174571/727c2516-0b2c-4a48-8e06-dbcc3b3d9679" width="100" height="100">
