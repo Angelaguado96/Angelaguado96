@@ -1,25 +1,14 @@
 Hola ! Mi Nombre es  Angel Aguado 👋👋👋👋👋
 
 
-Soy un desarrollador web full-stack apasionado por crear soluciones innovadoras que impacten positivamente en el mundo.
+Mi nombre es Angel Aguado 👋. Soy un desarrollador web full-stack apasionado por crear soluciones innovadoras que impacten positivamente en el mundo.
 
-Comencé en el mundo de la programación hace 3 años, y desde entonces he trabajado en una variedad de proyectos, desde plataformas de comercio electrónico hasta aplicaciones de gestión. Estoy especializado en diseño de interfaces de usuario y creación de material visual, y domino tecnologías como:
- 🚀 javaCript
-    🚀 React .vite 
-    🚀 Node.js
-    🚀 Express 
-    🚀 PostgressSQL
-    🚀 Sequelize 
-    🚀 GitHub
-    🚀HTML 
-    🚀 CSS 
+Comencé en el mundo de la programación hace 3 años y, desde entonces, he trabajado en una variedad de proyectos, desde plataformas de comercio electrónico hasta aplicaciones de gestión. Estoy especializado en diseño de interfaces de usuario y creación de material visual, y domino tecnologías como: 
+🚀 JavaScript 🚀 React 🚀 Node.js 🚀 Express 🚀 PostgreSQL 🚀 Sequelize 🚀 GitHub 🚀 HTML 🚀 CSS.
 
-Soy un líder y trabajador en equipo eficaz. Me destaco por buscar las soluciones y maneras eficientes, y soy adaptable a equipos de trabajo. Estoy siempre aprendiendo y creciendo, y estoy comprometido a hacer un impacto positivo en el mundo a través de la tecnología.
+Soy un líder y trabajador en equipo eficaz. Me destaco por buscar soluciones y maneras eficientes, y soy adaptable a equipos de trabajo. Estoy siempre aprendiendo y creciendo, y estoy comprometido a hacer un impacto positivo en el mundo a través de la tecnología.
 
-
- Como tambien  otras librerias que  hace  la vida del  cliente  mejor  tengo concoimento  como  lider y trabajo en equipo  me descado por que  
-  busco  las  soluciones  y marejas eficiendo  soy adaptable  a  aquipo comparoto  ideas  y tambien recivo  ideas  y  ps  creo que soy  una 
-   parte ensencial en  un  grupo de  trabajo.
+También tengo conocimiento en otras librerías que hacen la vida del cliente mejor. Me destaco como líder y trabajo en equipo. Busco soluciones eficientes y soy adaptable a equipos, comparto ideas y también recibo ideas. Creo que soy una parte esencial en un grupo de trabajo.
 
 Si estás interesado en trabajar conmigo, no dudes en contactarme.
 
