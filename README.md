@@ -10,10 +10,24 @@ Comencé en el mundo de la programación hace 3 años y, desde entonces, he trab
 🚀 Node.js 
 🚀 Express 
 🚀 PostgreSQL 
-🚀 Sequelize 
+🚀Sequelize (ORM)
+🚀JsonWeb Tokens
+🚀Autenticación de
+terceros con Google y
+LinkedIn
+🚀Fetch
+🚀Axios
+🚀Redux thunk
+🚀Redux Toolkit
+🚀Material UI
+🚀Diseño Web Responsivo
+(Responsive Web Desing
+🚀 Visual Studio Code 
+🚀 Express Validator
 🚀 GitHub 
 🚀 mongoDB
-🚀 prisma
+🚀  Claudinary
+🚀 Prisma(ORM)
 🚀 tailwindCSS
 🚀 Nextjs
 🚀 NextUI
