@@ -4,7 +4,23 @@ Hola ! Mi Nombre es  Angel Aguado 👋👋👋👋👋
 Mi nombre es Angel Aguado 👋. Soy un desarrollador web full-stack apasionado por crear soluciones innovadoras que impacten positivamente en el mundo.
 
 Comencé en el mundo de la programación hace 3 años y, desde entonces, he trabajado en una variedad de proyectos, desde plataformas de comercio electrónico hasta aplicaciones de gestión. Estoy especializado en diseño de interfaces de usuario y creación de material visual, y domino tecnologías como: 
-🚀 JavaScript 🚀 React 🚀 Node.js 🚀 Express 🚀 PostgreSQL 🚀 Sequelize 🚀 GitHub 🚀 HTML 🚀 CSS.
+🚀 JavaScript
+🚀 typeScript
+🚀 React 
+🚀 Node.js 
+🚀 Express 
+🚀 PostgreSQL 
+🚀 Sequelize 
+🚀 GitHub 
+🚀 mongoDB
+🚀 prisma
+🚀 tailwindCSS
+🚀 Nextjs
+🚀 NextUI
+🚀 react Vite.js
+🚀 boostrap
+🚀 HTML
+🚀 CSS.
 
 Soy un líder y trabajador en equipo eficaz. Me destaco por buscar soluciones y maneras eficientes, y soy adaptable a equipos de trabajo. Estoy siempre aprendiendo y creciendo, y estoy comprometido a hacer un impacto positivo en el mundo a través de la tecnología.
 
