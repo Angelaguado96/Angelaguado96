@@ -31,6 +31,7 @@ LinkedIn
 🚀 tailwindCSS
 🚀 Nextjs
 🚀 NextUI
+🚀 React-hook-form
 🚀 react Vite.js
 🚀 boostrap
 🚀 HTML
